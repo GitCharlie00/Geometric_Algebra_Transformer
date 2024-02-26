@@ -45,7 +45,8 @@ To utilize the "Geometric Transformers" project, follow these steps:
 
 
 ## Collaborators
-Claudio Schiavella (https://github.com/GitCharlie00)
+Lorenzo Cirillo (https://github.com/LorCir28)
+Jacopo Tedeschi (https://github.com/jacopotdsc)
 
 ## References
 [1] Geometric Algebra Transformer (https://arxiv.org/pdf/2305.18415.pdf)
